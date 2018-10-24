@@ -166,7 +166,7 @@ ul.nosyely_list {
 }
 
 .brand_item {
-  opacity: 0.3;
+  /* opacity: 0.3; */
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
@@ -2005,7 +2005,7 @@ Cover
 }
 .cover_slider .cover_item .slider_content {
   display: table;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.432);
   height: 100%;
   width: 100%;
   position: relative;
